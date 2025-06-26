@@ -9,8 +9,8 @@ This project explores the relationship between NVIDIA's major consumer GPU launc
 ```
 analysis/
 ├── data/
-│   ├── Nvidia_stock_data_full.csv            # Full historical stock data
-│   └── Nvidia_GPU_Event_Analysis.csv         # Filtered dataset around GPU launches
+│   ├── Nvidia_stock_data.csv            # Full historical stock data
+│   └── Nvidia_stock_data_cut.csv         # Filtered dataset around GPU launches
 ├── notebook/
 │   ├── NVIDIA_GPU_Launch_Stock_Analysis.ipynb  # Main notebook with analysis and visualizations
 │   └── images/                               # Saved plots and charts
