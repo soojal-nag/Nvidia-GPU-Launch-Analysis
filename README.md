@@ -19,7 +19,7 @@ analysis/
 
 ---
 
-## 📈 Key Highlights
+##  Key Highlights
 
 - Event-driven financial modeling across 4 major GPU launches:
   - 🟢 **RTX 20 (Aug 2018)**
@@ -36,7 +36,7 @@ analysis/
 
 ---
 
-## 🔍 Interpretation Summary
+##  Interpretation Summary
 
 - **RTX 50**: Highest volatility; possibly linked to overvaluation, DeepSeek R1 announcement, or hardware issues.
 - **RTX 40**: Flat impact; market focus may have shifted to AI hardware like A100/H100.
@@ -45,21 +45,21 @@ analysis/
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
-- Python 🐍 (Pandas, Seaborn, Matplotlib)
+- Python (Pandas, Seaborn, Matplotlib)
 - Jupyter Notebooks (.ipynb)
 - Event-driven time series analysis
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE). Dataset attribution belongs to the original uploader on Kaggle. This work is for educational and non-commercial use only.
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is **not affiliated with NVIDIA**. All analysis is based on publicly available historical data and is provided **as-is** without warranty. This is not financial advice.
 
