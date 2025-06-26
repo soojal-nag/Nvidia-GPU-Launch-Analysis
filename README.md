@@ -65,6 +65,6 @@ This project is **not affiliated with NVIDIA**. All analysis is based on publicl
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Feel free to fork the repository, suggest improvements, or submit PRs. Ideas like comparing to S&P500 or analyzing trading volume spikes are welcome.
